@@ -1,8 +1,8 @@
 continuedfractions
 ==================
 
-Periodic Continued Fractions in Scala
-Here's a dozen continued periodic fractions - enjoy!
+    Periodic Continued Fractions in Scala
+    Here's a dozen continued periodic fractions - enjoy!
 
     $ scala CF
     Golden Ratio = 1.618033988749859 = 5702887/3524578
